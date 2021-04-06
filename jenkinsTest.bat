@@ -1,9 +1,4 @@
 echo off
-cls
 echo "SCRIPT .BAT para realizar GitHub Teste 3 em git"
-ping 127.0.0.1 -n 15 > nul
+ping 8.8.8.8 -n 15 > ping.txt
 
-cd C:\Users\User01\Documents\JenkinsFolderTesteCurso2021\
-
-echo "Mostra dir"
-echo "Mudanca"
