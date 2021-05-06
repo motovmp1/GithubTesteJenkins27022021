@@ -4,4 +4,4 @@ ping 8.8.8.8 -n 30 > ping.txt
 
 echo %date%
 echo %time%
-echo "push new 3"
+echo "push new 4 --- version 1.1"
